@@ -1,1 +1,2 @@
 This is a new story!
+This is a branch to my story that hopefully will be added to the master.
